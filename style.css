@@ -1,0 +1,38 @@
+h1 {
+    margin: 0px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 25px;
+    padding-left: 15px;
+    text-decoration: underline;
+}
+
+.doc {
+    position: fixed;
+    left: 0;
+    width: 14%;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    margin: 15px 0px;
+    padding: 10px;
+    box-shadow: 2px 2px;
+}
+
+.material {
+    margin: auto;
+    width: 80%;
+    padding: 10px 10px 10px 233px;
+    ;
+}
+
+.container {
+    display: flex;
+
+}
